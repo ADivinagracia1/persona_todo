@@ -1,0 +1,35 @@
+# Persona Menu
+
+Stats
+Social Stats
+Personas --> Combat stats
+Items
+Confidance (NPCs)
+Calendar 
+Options
+
+Objectives --> HUD
+Overarching Objectives [ex Prove your justice to society] --> MAIN QUEST
+What you're currently doing
+--> Make a to-do list app
+
+in the game, you can see whatever you want to do --> 
+Hang out with confidants (highlight in blue)
+Perform Activity - going to a restaurant, perform hobby (Yellow)
+Yellow Activities = meant  to do, and gain an improvemnt of some kind of stats
+Main Objective Tasks (Red)
+Choes (green)
+
+
+Requirements: 
+Want to be able to interact with it on the phone
+Mainly use computer tho
+Phone can send notifiacions
+When task written down, app sorts what kind of task + priority
+Dont want to see everything all the time
+content with line-by-line or command line (no GUI)
+
+User: Me
+
+
+
