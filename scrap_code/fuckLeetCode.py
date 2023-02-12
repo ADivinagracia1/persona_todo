@@ -1,6 +1,6 @@
 def Tupplize(listy):
     for i in listy:
-        new_listy = (i, listy)
+        listy = (i, listy)
 
 def QuickSortT(listy: list[tuple]):
     # Want to retain the original index of each list

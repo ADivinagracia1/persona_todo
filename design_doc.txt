@@ -61,9 +61,14 @@ P5-Red
 - main goal
 - 
 
+Minimum Viable Product:
 
 
-
+- director
+    - commutnicator
+        - os notification
+    - console UI
+        - console color
 
 =============== Feb 10, 2023 ====================
 Stats
