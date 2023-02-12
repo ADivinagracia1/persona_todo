@@ -75,7 +75,7 @@ Stats
 Social Stats
 Personas --> Combat stats
 Items
-Confidance (NPCs)
+Confidants (NPCs)
 Calendar 
 Options
 
