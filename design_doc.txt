@@ -1,5 +1,71 @@
 # Persona Menu
 
+===== Feb 11, 2023 =====
+To Do list app
+
+# Implementaion Ideas
+Graphics: dont need to worry too much (no need for external library)
+- Dont want to see everything all the time
+- [console manipulation] --> dont need to use libraries
+- Colored activities (Red, Yellow, Blue)
+
+Want to be able to interact with it on the phone
+- messaging phone possible?
+- emailing to email
+- app notifiacions
+
+All configuring is done on my computer 
+--> Main interface of program
+
+Features
+- Be able to make new notes
+    - Tasks + Reminders
+    - Reminders attatched to Task
+- Notes are sorted into categories --> Req: Must be able to choose a category before creating
+- Extra feature: Text is prepended (top of cmd) [console manipulation]
+- Upon booting, Show oldest Tasks 
+- Reccuring Tasks?
+    - ex: Tuesday
+        - List of things to do on Tuesday
+- Be able to see the things i do on a certain day
+    --> Kind of a scheduler
+
+What does tasks contain?
+- text for human to read (ex. title)
+- can have reminders (time of notifiaction)
+    - +method of notifiacion
+- must have a category 
+- must have a date created
+- can have a due date (optional)
+- Re-occruing (able to not have re-occuring)
+- state: completed/uncompleted --> visible, but not forefront
+    - Not necesarily things that need to be done
+    - If done, marked done on day
+    - Doesnt delete, but refreshes
+
+
+
+Unique Identifier (for Andrei, the user)
+Notes of how I want to use the app (note: separated from the actual features themselves)
+Category:
+P5-Blue 
+- must have a person tied to task
+- contact info of person (most used app + link to that app)
+--> list of confidants (opt)
+
+P5-Yellow
+- must have stats/skills tied to task
+- 
+
+P5-Red
+- main goal
+- 
+
+
+
+
+
+=============== Feb 10, 2023 ====================
 Stats
 Social Stats
 Personas --> Combat stats
@@ -22,10 +88,10 @@ Choes (green)
 
 
 Requirements: 
+When task written down, app sorts what kind of task + priority
 Want to be able to interact with it on the phone
 Mainly use computer tho
 Phone can send notifiacions
-When task written down, app sorts what kind of task + priority
 Dont want to see everything all the time
 content with line-by-line or command line (no GUI)
 
