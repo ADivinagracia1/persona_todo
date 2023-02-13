@@ -5,5 +5,6 @@ import models.enums.Color as Color
 class Category:
     title: str = ""
     color: Color = None
+    image: str = "" # Link to image
 
     
